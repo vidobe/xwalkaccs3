@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p60206-e1003285.adobeaemcloud.com/bin/franklin.delivery/vidobe/xwalkaccs/main"
+    type: "markup"
+    suffix: ".html"
